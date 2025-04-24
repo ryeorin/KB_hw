@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        // 함수를선언합니다.
+        function callTenTimes(callback) {
+        for (let i = 0; i < 10; i++) {
+        callback();
+        }
+        }
+        // 함수를호출합니다.
+        callTenTimes(function() {
+        alert('함수호출');
+        });
+    </script>
+</head>
+<body>
+    <h1>function_nonameCallback</h1>
+</body>
+</html>
