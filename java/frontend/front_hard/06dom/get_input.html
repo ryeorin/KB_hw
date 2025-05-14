@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+ <title>DOMBasic</title>
+ <script>
+ window.onload=function(){
+ document.getElementById('btn').addEventListener('click',function(){
+ letname=document.getElementById('name');
+ console.log(name.value);
+ },false);
+ };
+ </script>
+ </head>
+ <body>
+    <form>
+        <label for="name">이름:</label>
+        <input id="name" name="name" type="text" size="30" />
+        <input id="btn" type="button" value="전송" />
+    </form>
+ </body>
+ </html>
