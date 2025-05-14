@@ -1,9 +1,5 @@
 ## 자바 실습 과제 체크리스트
 
-
-
-### 📘 기본
-
 <details>
 <summary>📘 기본</summary>
 
@@ -23,10 +19,10 @@
 
 </details>
 
-### 📙 심화
+
 
 <details>
-<summary>펼치기</summary>
+<summary>📙 심화</summary>
 
 - [x] 01 개발환경 구축, 변수, 타입, 연산자  
 - [x] 02 조건문과 반복문, 참조타입  
