@@ -3,6 +3,7 @@
 <details>
   
 <summary>📘 기본</summary>
+
 - [x] 01 DBMS 개요, 설치, 전체 운영 실습
 - [x] 02 데이터베이스 모델링, MySQL 유틸리티 사용법
 - [x] 03 SQL 기본
@@ -18,6 +19,7 @@
 <details>
   
 <summary>📙 심화</summary>
+
 - [x] 01 DBMS 개요, 설치, 전체 운영 실습
 - [x] 02 데이터베이스 모델링, MySQL 유틸리티 사용법
 - [] 03 SQL 기본
