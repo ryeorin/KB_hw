@@ -1,0 +1,45 @@
+db.users.insert({username: "smith"})
+
+db.users.update( {username: "smith"},
+{ 
+$set: {
+favorites: {
+cities: ["Chicago", "Cheyenne"],
+movies: ["Casablanca", "For a Few Dollars More", "The Sting"]
+}
+}
+})
+
+
+db.users.insert({username: "jones"})
+
+db.users.update( {username: “jones"},
+{ 
+$set: {
+favorites: {
+movies: ["Casablanca", “Rocky"]
+}
+}
+})
+
+db.users.find({"favorites.movies": "Casablanca"}).pretty()
+
+db.users.updateMany( {"favorites.movies": "Casablanca"},
+{$addToSet: {"favorites.movies": "The Maltese Falcon"} },
+{upsert: false} )
+
+for(let i = 0; i < 20000; i++) {
+db.numbers.insert({num: i});
+}
+
+db.numbers.count()
+
+db.numbers.find( {num: {"$gte": 20, "$lte": 25 }} )
+
+db.numbers.find( {num: {"$gte": 20, "$lte": 25 }} ).explain("executionStats")
+
+db.numbers.ensureIndex({num: 1})
+
+db.numbers.getIndexes()
+
+db.numbers.find( {num: {"$gte": 20, "$lte": 25 }} ).explain("executionStats")
