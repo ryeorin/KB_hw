@@ -1,6 +1,7 @@
 ## SQL 실습 과제 체크리스트
 
 <details>
+  
 <summary>📘 기본</summary>
 01 MySQL 기반 RDBMS 활용과 JDBC
 - [x] 01 DBMS 개요, 설치, 전체 운영 실습 
@@ -18,6 +19,7 @@
 
 
 <details>
+  
 <summary>📙 심화</summary>
 01 MySQL 기반 RDBMS 활용과 JDBC
 - [x] 01 DBMS 개요, 설치, 전체 운영 실습 
