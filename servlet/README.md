@@ -8,8 +8,8 @@
 | 01 서블릿 기초                                     | ✅   |   ✅     |
 | 02 Jsp의 이해                                      | ✅ |    ✅      |
 | 03 서블릿 심화                                    | ✅  |     ✅     |
-| 04 요청 포워딩,EL,JSTL                           | ✅    |        |
-| 05 FrontController                               | ✅   |         |
+| 04 요청 포워딩,EL,JSTL                           | ✅    |    ✅     |
+| 05 FrontController                               | ✅   |    ✅     |
 
 
 </details>
