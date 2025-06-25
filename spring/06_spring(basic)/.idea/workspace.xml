@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94fe2cfa-da67-46b0-b876-29661189542f" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../../servlet/02_jsp/.idea/02_jsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/02_jsp/jsp/src/main/java/org/scoula/jsp/index_jsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/02_jsp/jsp/src/main/webapp/copyright.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/02_jsp/jsp/src/main/webapp/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/02_jsp/jsp/src/main/webapp/header2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/02_jsp/jsp/src/main/webapp/main2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/02_jsp/jsp/src/main/webapp/main3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/03_jsp/.idea/03_jsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/03_jsp/ex03/src/main/java/org/scoula/ex03/BoardServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/03_jsp/ex03/src/main/java/org/scoula/ex03/CartDeleteCookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/03_jsp/ex03/src/main/java/org/scoula/ex03/CartSaveCookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/03_jsp/ex03/src/main/java/org/scoula/ex03/CartViewCookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/03_jsp/ex03/src/main/java/org/scoula/ex03/filter/CharacterEncodeFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/03_jsp/ex03/src/main/webapp/board_form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/03_jsp/ex03/src/main/webapp/cookie_product.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/04_jsp/ex04/src/main/java/org/scoula/ex04/RequestRedirectServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/04_jsp/ex04/src/main/java/org/scoula/ex04/RequestServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/04_jsp/ex04/src/main/java/org/scoula/ex04/ResponseRedirectServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/04_jsp/ex05/src/main/java/org/scoula/ex05/JstlServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/04_jsp/ex05/src/main/webapp/jstl_ex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/.idea/artifacts/Gradle___org_scoula___ex06_1_0_SNAPSHOT_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/.idea/artifacts/Gradle___org_scoula___ex06_1_0_SNAPSHOT_war__exploded_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/src/main/java/org/scoula/ex06/DispatcherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/src/main/java/org/scoula/ex06/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/src/main/java/org/scoula/ex06/controller/TodoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/src/main/webapp/WEB-INF/views/404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/src/main/webapp/WEB-INF/views/todo/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/src/main/webapp/WEB-INF/views/todo/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/src/main/webapp/WEB-INF/views/todo/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/src/main/webapp/WEB-INF/views/todo/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06_spring(advance)/boardapi/src/main/java/org/scoula/weather/dto/WeatherDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_spring(basic)/apiserver/.idea/apiserver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_spring(basic)/apiserver/__MACOSX/apiserver/.idea/._SpringLegacy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_spring(basic)/apiserver/__MACOSX/apiserver/.idea/modules/._apiserver.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_spring(basic)/apiserver/__MACOSX/apiserver/.idea/modules/._apiserver.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/src/main/java/org/scoula/ex03/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/src/main/java/org/scoula/ex03/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/src/main/java/org/scoula/ex03/SportsServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/src/main/webapp/login_form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/ex03/src/main/webapp/sports.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/02_jsp/jsp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlet/02_jsp/jsp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/03_jsp/ex04/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlet/03_jsp/ex04/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/03_jsp/ex04/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlet/03_jsp/ex04/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/04_jsp/ex05/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlet/04_jsp/ex05/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/04_jsp/ex05/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlet/04_jsp/ex05/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/src/main/java/org/scoula/ex06/FrontControllerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlet/05_jsp/ex06/src/main/java/org/scoula/ex06/FrontControllerServlet.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ywmoNcoeVGeojDzy65OeHIdw5z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="94fe2cfa-da67-46b0-b876-29661189542f" name="변경" comment="" />
+      <created>1750754183672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750754183672</updated>
+      <workItem from="1750754185094" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
